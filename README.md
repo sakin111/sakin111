@@ -47,7 +47,7 @@ I’m currently focused on strengthening my full-stack fundamentals, exploring b
 
 **Database & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,firebase,git,github" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,firebase,git,github,OAuth,OpenAI,Gemini" />
 </p>
 
 ---
@@ -95,8 +95,8 @@ I’m currently focused on strengthening my full-stack fundamentals, exploring b
 <!-- ===================== -->
 ## 🚀 Featured Projects
 
-### 🔹 Image Text Extractor Web App
-- Extracts text from images using OCR
+### 🔹 Finding Travel Buddy
+- Find and matchs the travel partners
 - Built with React & TypeScript
 - Focused on real-world usability and performance
 
