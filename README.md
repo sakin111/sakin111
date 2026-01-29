@@ -61,18 +61,13 @@ I’m currently focused on strengthening my full-stack fundamentals, exploring b
 <!-- ===================== -->
 <!-- GitHub Statistics -->
 <!-- ===================== -->
-## 📊 GitHub Statistics
+
+## 📊 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sakin111&show_icons=true&theme=default&hide_border=true"
-    height="160"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=sakin111&theme=default&hide_border=true"
-    height="160"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakin111&theme=default" />
 </p>
+
 
 
 ---
