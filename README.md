@@ -35,9 +35,10 @@ I’m currently focused on strengthening my full-stack fundamentals, exploring b
 <!-- ===================== -->
 ## 🛠 Tech Stack
 
+
 **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,html,css,tailwind,redux" />
 </p>
 
 **Backend**
@@ -45,9 +46,14 @@ I’m currently focused on strengthening my full-stack fundamentals, exploring b
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-**Database & Tools**
+**Database 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,firebase,git,github,OAuth,OpenAI,Gemini" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,supabase,firebase,git,github,docker,redis" />
+</p>
+
+**Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,bun" />
 </p>
 
 ---
