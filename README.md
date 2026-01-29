@@ -101,9 +101,9 @@ I’m currently focused on strengthening my full-stack fundamentals, exploring b
 - Built with React & TypeScript
 - Focused on real-world usability and performance
 
-### 🔹 Library Management System
-- Full CRUD system with borrow functionality
-- React, Redux Toolkit Query, Node.js, MongoDB
+### 🔹 Blog Post
+- Create your own blog
+- Next.js, Node.js,Express.js, prisma
 - Clean modular architecture
 
 ### 🔹 Digital Wallet API
