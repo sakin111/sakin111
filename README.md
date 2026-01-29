@@ -46,7 +46,7 @@ I’m currently focused on strengthening my full-stack fundamentals, exploring b
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-**Database 
+**Database** 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,supabase,firebase,git,github,docker,redis" />
 </p>
