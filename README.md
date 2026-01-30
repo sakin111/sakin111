@@ -53,7 +53,7 @@ I’m currently focused on strengthening my full-stack fundamentals, exploring b
 
 **Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,bun" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,bun" />
 </p>
 
 ---
