@@ -48,7 +48,7 @@ I’m currently focused on strengthening my full-stack fundamentals, exploring b
 
 **Database** 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,supabase,firebase,git,github,docker,redis" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,supabase,firebase,git,github,redis" />
 </p>
 
 **Tools**
